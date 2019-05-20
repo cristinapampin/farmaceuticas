@@ -12,5 +12,5 @@ nombresMedicamentos = tree.xpath('//div/section/div[3]/div/ul/li/a')
 numeroMedicamentos = len(nombresMedicamentos)
 
 for i in range (numeroMedicamentos):
-    medicamento = nombresMedicamentos[i].xpath('text()')
+    medicamento = nombresMedicamentos[i].xpath('text()')[0]
     print (medicamento)
