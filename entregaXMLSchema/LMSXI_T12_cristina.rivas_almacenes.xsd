@@ -8,14 +8,15 @@
             <xs:sequence>
               <xs:element type="xs:string" name="nombreAlmacen"/>
               <xs:element type="xs:string" name="ubicacionAlmacen"/>
-              <xs:element type="xs:string" name="medicamentos_almacen" maxOccurs="unbounded">
+              <xs:element name="medicamentos_almacen" maxOccurs="unbounded">
                 <xs:complexType>
                   <xs:sequence>
-                    <xs:element name="medicamento>
+                    <xs:element name="medicamento" maxOccurs="unbounded">
                       <xs:complexType>
                         <xs:sequence>
-                          <xs:element type="xs:string" name="codigo_medicamento"/>
-                          <xs:element type="xs:string" name="stock"/>
+                          <xs:element name="nombre_medicamento"/>
+                          <xs:element type="xs:integer" name="codigo_medicamento"/>
+                          <xs:element type="xs:integer" name="stock"/>
                         </xs:sequence>
                       </xs:complexType>
                     </xs:element>
@@ -29,6 +30,3 @@
     </xs:complexType>
   </xs:element>
 </xs:schema>
-
-
-

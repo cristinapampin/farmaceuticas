@@ -1,68 +1,17 @@
 <root>
     <almacen>
-        <nombreAlmacen>Almacen Magico</nombreAlmacen>
-        <ubicacionAlmacen>Plaza del Tieso</ubicacionAlmacen>
+        <nombreAlmacen>AlmacenTapadera</nombreAlmacen>
+        <ubicacionAlmacen>Calle Me falta un tornillo</ubicacionAlmacen>
         <medicamentos_almacen>
             <medicamento>
                 <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
                 </nombre_medicamento>
-                <codigo_medicamento>638089157</codigo_medicamento>
+                <codigo_medicamento>588918778</codigo_medicamento>
                 <stock>12</stock>
             </medicamento>
             <medicamento>
                 <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
-                <codigo_medicamento>391280950</codigo_medicamento>
-                <stock>200</stock>
-            </medicamento>
-        </medicamentos_almacen>
-    </almacen>
-    <almacen>
-        <nombreAlmacen>Almacen BuenoBonitoBarato</nombreAlmacen>
-        <ubicacionAlmacen>Calle de la Duda</ubicacionAlmacen>
-        <medicamentos_almacen>
-            <medicamento>
-                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
-                </nombre_medicamento>
-                <codigo_medicamento>965131099</codigo_medicamento>
-                <stock>12</stock>
-            </medicamento>
-            <medicamento>
-                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
-                <codigo_medicamento>438125335</codigo_medicamento>
-                <stock>200</stock>
-            </medicamento>
-        </medicamentos_almacen>
-    </almacen>
-    <almacen>
-        <nombreAlmacen>Almacen Magico</nombreAlmacen>
-        <ubicacionAlmacen>Plaza del Tieso</ubicacionAlmacen>
-        <medicamentos_almacen>
-            <medicamento>
-                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
-                </nombre_medicamento>
-                <codigo_medicamento>695748374</codigo_medicamento>
-                <stock>12</stock>
-            </medicamento>
-            <medicamento>
-                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
-                <codigo_medicamento>240057112</codigo_medicamento>
-                <stock>200</stock>
-            </medicamento>
-        </medicamentos_almacen>
-    </almacen>
-    <almacen>
-        <nombreAlmacen>Almacen BuenoBonitoBarato</nombreAlmacen>
-        <ubicacionAlmacen>Calle de los gorrones</ubicacionAlmacen>
-        <medicamentos_almacen>
-            <medicamento>
-                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
-                </nombre_medicamento>
-                <codigo_medicamento>740438111</codigo_medicamento>
-                <stock>12</stock>
-            </medicamento>
-            <medicamento>
-                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
-                <codigo_medicamento>212746833</codigo_medicamento>
+                <codigo_medicamento>764082620</codigo_medicamento>
                 <stock>200</stock>
             </medicamento>
         </medicamentos_almacen>
@@ -74,12 +23,63 @@
             <medicamento>
                 <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
                 </nombre_medicamento>
-                <codigo_medicamento>987632661</codigo_medicamento>
+                <codigo_medicamento>492940636</codigo_medicamento>
                 <stock>12</stock>
             </medicamento>
             <medicamento>
                 <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
-                <codigo_medicamento>907977154</codigo_medicamento>
+                <codigo_medicamento>994815097</codigo_medicamento>
+                <stock>200</stock>
+            </medicamento>
+        </medicamentos_almacen>
+    </almacen>
+    <almacen>
+        <nombreAlmacen>AlmacenTapadera</nombreAlmacen>
+        <ubicacionAlmacen>Calle de la Duda</ubicacionAlmacen>
+        <medicamentos_almacen>
+            <medicamento>
+                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+                </nombre_medicamento>
+                <codigo_medicamento>669722003</codigo_medicamento>
+                <stock>12</stock>
+            </medicamento>
+            <medicamento>
+                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
+                <codigo_medicamento>164939932</codigo_medicamento>
+                <stock>200</stock>
+            </medicamento>
+        </medicamentos_almacen>
+    </almacen>
+    <almacen>
+        <nombreAlmacen>AlmacenCerrado</nombreAlmacen>
+        <ubicacionAlmacen>Plaza del Tieso</ubicacionAlmacen>
+        <medicamentos_almacen>
+            <medicamento>
+                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+                </nombre_medicamento>
+                <codigo_medicamento>677081248</codigo_medicamento>
+                <stock>12</stock>
+            </medicamento>
+            <medicamento>
+                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
+                <codigo_medicamento>431625183</codigo_medicamento>
+                <stock>200</stock>
+            </medicamento>
+        </medicamentos_almacen>
+    </almacen>
+    <almacen>
+        <nombreAlmacen>AlmacenTapadera</nombreAlmacen>
+        <ubicacionAlmacen>Calle de los gorrones</ubicacionAlmacen>
+        <medicamentos_almacen>
+            <medicamento>
+                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+                </nombre_medicamento>
+                <codigo_medicamento>747417682</codigo_medicamento>
+                <stock>12</stock>
+            </medicamento>
+            <medicamento>
+                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
+                <codigo_medicamento>653635868</codigo_medicamento>
                 <stock>200</stock>
             </medicamento>
         </medicamentos_almacen>

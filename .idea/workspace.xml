@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d848c8d-9909-4d31-834a-5fd10b443389" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/entregaXMLSchema/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entregaXMLSchema/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entregaXMLSchema/LMSXI_T12_cristina.rivas_almacenes.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/entregaXMLSchema/LMSXI_T12_cristina.rivas_almacenes.xsd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entregaXMLSchema/almacenes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entregaXMLSchema/almacenes.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entregaXMLSchema/medicamentos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/entregaXMLSchema/medicamentos.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generadoresRandom.py" beforeDir="false" afterPath="$PROJECT_DIR$/generadoresRandom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laboratoriosRandom.py" beforeDir="false" afterPath="$PROJECT_DIR$/laboratoriosRandom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,12 +16,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-347">
-              <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#46#67#0" expanded="true" />
               </folding>
@@ -33,22 +30,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/generadoresRandom.py">
+        <entry file="file://$PROJECT_DIR$/almacenes.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+            <state relative-caret-position="95">
+              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laboratoriosRandom.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/entregaXMLSchema/LMSXI_T12_cristina.rivas_almacenes.xsd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
-              <folding>
-                <element signature="e#46#67#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="532">
+              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -84,9 +78,9 @@
         <option value="$PROJECT_DIR$/entregaXMLSchema/medicamentos.xml" />
         <option value="$PROJECT_DIR$/entregaXMLSchema/LMSXI_T12_cristina.rivas_medicamentos.xsd" />
         <option value="$PROJECT_DIR$/entregaXMLSchema/almacenes.xml" />
-        <option value="$PROJECT_DIR$/entregaXMLSchema/LMSXI_T12_cristina.rivas_almacenes.xsd" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/almacenes.xml" />
+        <option value="$PROJECT_DIR$/entregaXMLSchema/LMSXI_T12_cristina.rivas_almacenes.xsd" />
       </list>
     </option>
   </component>
@@ -101,6 +95,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,11 +103,15 @@
               <item name="farmaceuticas" type="b2602c69:ProjectViewProjectNode" />
               <item name="farmaceuticas" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="farmaceuticas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="farmaceuticas" type="462c0819:PsiDirectoryNode" />
+              <item name="entregaXMLSchema" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -279,16 +278,17 @@
       <workItem from="1558519521741" duration="3177000" />
       <workItem from="1558523221576" duration="205000" />
       <workItem from="1558536750759" duration="7481000" />
+      <workItem from="1558546566966" duration="627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33855000" />
+    <option name="totallyTimeSpent" value="34482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="505" y="49" width="1415" height="952" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2099488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21360643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -357,7 +357,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/farmaceuticas$principiosActivos.coverage" NAME="principiosActivos Coverage Results" MODIFIED="1558444188639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/farmaceuticas$main.coverage" NAME="main Coverage Results" MODIFIED="1558544711118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/farmaceuticas$main.coverage" NAME="main Coverage Results" MODIFIED="1558546580748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/farmaceuticas$prueba.coverage" NAME="prueba Coverage Results" MODIFIED="1558521897177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/farmaceuticas$POOparseVademecum.coverage" NAME="POOparseVademecum Coverage Results" MODIFIED="1558378006606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/farmaceuticas$generadoresRandom.coverage" NAME="generadoresRandom Coverage Results" MODIFIED="1558441002667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -415,24 +415,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/entregaXMLSchema/LMSXI_T12_cristina.rivas_almacenes.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generadoresRandom.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laboratoriosRandom.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
-          <caret line="23" column="41" lean-forward="true" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+          <folding>
+            <element signature="e#46#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#46#67#0" expanded="true" />
           </folding>
@@ -441,18 +444,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/almacenes.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="95">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/entregaXMLSchema/LMSXI_T12_cristina.rivas_almacenes.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-347">
-          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-          <folding>
-            <element signature="e#46#67#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="532">
+          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
         </state>
       </provider>
     </entry>
