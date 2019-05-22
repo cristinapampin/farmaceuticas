@@ -81,4 +81,4 @@ for i in range(0, 20):
 
 tree = ET.ElementTree(root)
 tree.write('medicamentos.xml')
-print("Se han creado los siguientes xml:\nalmacenes.xml\nmedicamentos.xml")
+print("Se han creado los siguientes xml:\n\talmacenes.xml\n\tmedicamentos.xml")
