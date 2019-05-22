@@ -32,5 +32,6 @@ class DireccionCrazy():
     def generarDireccionCrazy():
         nombrescalles = ["Calle de la Piruleta", "Calle Me falta un tornillo", "Calle de los gorrones",
                          "Calle del ojo seco", "Plaza del Tieso", "Calle de la Duda", "Calle Cilla"]
-        generardireccion = random.choice(nombrescalles)
+        elegirCalle = random.randint(0, 5)
+        generardireccion = nombrescalles[elegirCalle]
         return generardireccion
