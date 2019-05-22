@@ -1,76 +1,86 @@
 <root>
     <almacen>
-        <nombreAlmacen>AlmacenTapadera</nombreAlmacen>
-        <ubicacionAlmacen>Calle de los gorrones</ubicacionAlmacen>
-        <medicamentos_almacen>medicamentos en este almacen
-            <medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+        <nombreAlmacen>Almacen Magico</nombreAlmacen>
+        <ubicacionAlmacen>Plaza del Tieso</ubicacionAlmacen>
+        <medicamentos_almacen>
+            <medicamento>
+                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+                </nombre_medicamento>
+                <codigo_medicamento>638089157</codigo_medicamento>
                 <stock>12</stock>
             </medicamento>
-            <medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg
+            <medicamento>
+                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
+                <codigo_medicamento>391280950</codigo_medicamento>
                 <stock>200</stock>
-            </medicamento>
-            <medicamento>URAPLEX Comp. recub. con pelicula 20 mg
-                <stock>101</stock>
-            </medicamento>
-        </medicamentos_almacen>
-    </almacen>
-    <almacen>
-        <nombreAlmacen>AlmacenTapadera</nombreAlmacen>
-        <ubicacionAlmacen>Calle de los gorrones</ubicacionAlmacen>
-        <medicamentos_almacen>medicamentos en este almacen
-            <medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
-                <stock>12</stock>
-            </medicamento>
-            <medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg
-                <stock>200</stock>
-            </medicamento>
-            <medicamento>URAPLEX Comp. recub. con pelicula 20 mg
-                <stock>101</stock>
             </medicamento>
         </medicamentos_almacen>
     </almacen>
     <almacen>
         <nombreAlmacen>Almacen BuenoBonitoBarato</nombreAlmacen>
-        <ubicacionAlmacen>Plaza del Tieso</ubicacionAlmacen>
-        <medicamentos_almacen>medicamentos en este almacen
-            <medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+        <ubicacionAlmacen>Calle de la Duda</ubicacionAlmacen>
+        <medicamentos_almacen>
+            <medicamento>
+                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+                </nombre_medicamento>
+                <codigo_medicamento>965131099</codigo_medicamento>
                 <stock>12</stock>
             </medicamento>
-            <medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg
+            <medicamento>
+                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
+                <codigo_medicamento>438125335</codigo_medicamento>
                 <stock>200</stock>
-            </medicamento>
-            <medicamento>URAPLEX Comp. recub. con pelicula 20 mg
-                <stock>101</stock>
             </medicamento>
         </medicamentos_almacen>
     </almacen>
     <almacen>
         <nombreAlmacen>Almacen Magico</nombreAlmacen>
-        <ubicacionAlmacen>Calle de los gorrones</ubicacionAlmacen>
-        <medicamentos_almacen>medicamentos en este almacen
-            <medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+        <ubicacionAlmacen>Plaza del Tieso</ubicacionAlmacen>
+        <medicamentos_almacen>
+            <medicamento>
+                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+                </nombre_medicamento>
+                <codigo_medicamento>695748374</codigo_medicamento>
                 <stock>12</stock>
             </medicamento>
-            <medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg
+            <medicamento>
+                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
+                <codigo_medicamento>240057112</codigo_medicamento>
                 <stock>200</stock>
             </medicamento>
-            <medicamento>URAPLEX Comp. recub. con pelicula 20 mg
-                <stock>101</stock>
+        </medicamentos_almacen>
+    </almacen>
+    <almacen>
+        <nombreAlmacen>Almacen BuenoBonitoBarato</nombreAlmacen>
+        <ubicacionAlmacen>Calle de los gorrones</ubicacionAlmacen>
+        <medicamentos_almacen>
+            <medicamento>
+                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+                </nombre_medicamento>
+                <codigo_medicamento>740438111</codigo_medicamento>
+                <stock>12</stock>
+            </medicamento>
+            <medicamento>
+                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
+                <codigo_medicamento>212746833</codigo_medicamento>
+                <stock>200</stock>
             </medicamento>
         </medicamentos_almacen>
     </almacen>
     <almacen>
         <nombreAlmacen>AlmacenCerrado</nombreAlmacen>
         <ubicacionAlmacen>Calle de la Piruleta</ubicacionAlmacen>
-        <medicamentos_almacen>medicamentos en este almacen
-            <medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+        <medicamentos_almacen>
+            <medicamento>
+                <nombre_medicamento>ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg
+                </nombre_medicamento>
+                <codigo_medicamento>987632661</codigo_medicamento>
                 <stock>12</stock>
             </medicamento>
-            <medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg
+            <medicamento>
+                <nombre_medicamento>EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg</nombre_medicamento>
+                <codigo_medicamento>907977154</codigo_medicamento>
                 <stock>200</stock>
-            </medicamento>
-            <medicamento>URAPLEX Comp. recub. con pelicula 20 mg
-                <stock>101</stock>
             </medicamento>
         </medicamentos_almacen>
     </almacen>

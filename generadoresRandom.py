@@ -5,9 +5,9 @@ class Generico():
     def generarRandom():
         generarRandom = random.randint(0, 2)
         if generarRandom == 0:
-            genericoMedicamento = "True"
+            genericoMedicamento = "true"
         else:
-            genericoMedicamento = "False"
+            genericoMedicamento = "false"
         return genericoMedicamento
 
 

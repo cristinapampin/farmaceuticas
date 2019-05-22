@@ -16,7 +16,7 @@ class laboratoriosRandom():
 
         # meto en array
         arrayLAB = []
-        for i in range(0, longitudLAB):
+        for i in range(1, longitudLAB):
             lab = laboratorios[i].xpath('text()')[0]
             arrayLAB.append(lab)
 

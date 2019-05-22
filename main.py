@@ -25,22 +25,25 @@ for i in range(numeroAlmacenes):
     lugarAlmacenXML.text = direccionAlmacenLoco
 
     medicamentos_almacen = ET.SubElement(almacen, "medicamentos_almacen")
-    medicamentos_almacen.text = "medicamentos en este almacen"
 
     medicamento1XML = ET.SubElement(medicamentos_almacen, "medicamento")
-    medicamento1XML.text = "ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg"
+
+    nombre_medicamento1XML = ET.SubElement(medicamento1XML, "nombre_medicamento")
+    nombre_medicamento1XML.text = "ABACAVIR/LAMIVUDINA MYLAN Comp. recub. con pelicula 600 mg/300 mg"
+    codigo_medicamento1XML = ET.SubElement(medicamento1XML, "codigo_medicamento")
+    codigo_medicamento1XML.text = (str(random.randint(0, 999999999)))
     stock_medicamento1XML = ET.SubElement(medicamento1XML, "stock")
     stock_medicamento1XML.text = "12"
 
     medicamento2XML = ET.SubElement(medicamentos_almacen, "medicamento")
-    medicamento2XML.text = "EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg"
+
+    nombre_medicamento2XML = ET.SubElement(medicamento2XML, "nombre_medicamento")
+    nombre_medicamento2XML.text = "EBASTINA ALPROFARMA Comp. recub. con pelicula 20 mg"
+    codigo_medicamento2XML = ET.SubElement(medicamento2XML, "codigo_medicamento")
+    codigo_medicamento2XML.text = (str(random.randint(0, 999999999)))
     stock_medicamento2XML = ET.SubElement(medicamento2XML, "stock")
     stock_medicamento2XML.text = "200"
 
-    medicamento3XML = ET.SubElement(medicamentos_almacen, "medicamento")
-    medicamento3XML.text = "URAPLEX Comp. recub. con pelicula 20 mg"
-    stock_medicamento3XML = ET.SubElement(medicamento3XML, "stock")
-    stock_medicamento3XML.text = "101"
 
 
 #saco el xmlalmacenes
@@ -56,7 +59,7 @@ nombresMedicamentos = tree.xpath('//div/section/div[3]/div/ul/li/a')
 
 root = ET.Element('medicamentos')
 #creo elemento medicamento, metiendo sus atributos
-for i in range(0, 20):
+for i in range(0, 15):
 
     medicamentoXML = ET.SubElement(root, 'medicamento')
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="medicamentos" >
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="medicamento" maxOccurs="unbounded" >
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="nombre_medicamento"/>
+              <xs:element type="xs:string" name="codigo_medicamento"/>
+              <xs:element type="xs:string" name="p_activo_medicamento"/>
+              <xs:element name="es_generico_medicamento" type="xs:boolean"/>
+              <xs:element name="laboratorio_medicamento" type="xs:string"/>
+              <xs:element type="xs:string" name="prospecto_medicamento"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
