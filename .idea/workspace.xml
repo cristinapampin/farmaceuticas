@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d848c8d-9909-4d31-834a-5fd10b443389" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/POOparseVademecum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generadoresRandom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/laboratoriosRandom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parseandoWeb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/principiosActivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creandoAlmacenes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/validateSchema.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parseandoVademecum.py" beforeDir="false" afterPath="$PROJECT_DIR$/parseandoVademecum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POOparseVademecum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generadoresRandom.py" beforeDir="false" afterPath="$PROJECT_DIR$/generadoresRandom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parseandoVademecum.py" beforeDir="false" afterPath="$PROJECT_DIR$/inicioParseandoVademecum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parseandoWeb.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,58 +22,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/parseandoVademecum.py">
+        <entry file="file://$PROJECT_DIR$/inicioParseandoVademecum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="73" lean-forward="true" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+            <state relative-caret-position="76">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
-                <element signature="e#46#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laboratoriosRandom.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-              <folding>
-                <element signature="e#46#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/principiosActivos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="56" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-              <folding>
-                <element signature="e#46#67#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/POOparseVademecum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding>
-                <element signature="e#46#67#0" expanded="true" />
+                <element signature="e#47#68#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/creandoAlmacenes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generadoresRandom.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="371">
+              <caret line="34" column="55" lean-forward="true" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -96,23 +72,27 @@
         <option value="$PROJECT_DIR$/parseandoWeb.py" />
         <option value="$PROJECT_DIR$/parseandoVademecum.py" />
         <option value="$PROJECT_DIR$/POOparseVademecum.py" />
-        <option value="$PROJECT_DIR$/generadoresRandom.py" />
         <option value="$PROJECT_DIR$/laboratoriosRandom.py" />
         <option value="$PROJECT_DIR$/principiosActivos.py" />
+        <option value="$PROJECT_DIR$/validateSchema.py" />
+        <option value="$PROJECT_DIR$/generadoresRandom.py" />
+        <option value="$PROJECT_DIR$/inicioParseandoVademecum.py" />
+        <option value="$PROJECT_DIR$/creandoAlmacenes.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="737" />
-    <option name="y" value="36" />
-    <option name="width" value="1183" />
-    <option name="height" value="1041" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="760" />
+    <option name="y" value="50" />
+    <option name="width" value="1160" />
+    <option name="height" value="931" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,7 +105,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,8 +131,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.parseandoVademecum">
-    <configuration name="POOparseVademecum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.creandoAlmacenes">
+    <configuration name="creandoAlmacenes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="farmaceuticas" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +145,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/POOparseVademecum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creandoAlmacenes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +211,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parseandoVademecum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inicioParseandoVademecum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.creandoAlmacenes" />
         <item itemvalue="Python.parseandoVademecum" />
         <item itemvalue="Python.principiosActivos" />
         <item itemvalue="Python.laboratoriosRandom" />
         <item itemvalue="Python.generadoresRandom" />
-        <item itemvalue="Python.POOparseVademecum" />
       </list>
     </recent_temporary>
   </component>
@@ -285,18 +264,20 @@
       <updated>1558371334095</updated>
       <workItem from="1558371335821" duration="241000" />
       <workItem from="1558371733085" duration="6287000" />
-      <workItem from="1558437854890" duration="3907000" />
+      <workItem from="1558437854890" duration="4532000" />
+      <workItem from="1558448922033" duration="968000" />
+      <workItem from="1558507318077" duration="8625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10435000" />
+    <option name="totallyTimeSpent" value="20653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
+    <frame x="760" y="50" width="1160" height="931" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27831197" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24730216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,7 +286,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23009814" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26309228" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,7 +305,7 @@
       <window_info anchor="right" id="Maven" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="SciView" order="8" weight="0.3291239" />
       <window_info anchor="right" id="Database" order="9" />
     </layout>
   </component>
@@ -336,29 +317,12 @@
     <SUITE FILE_PATH="coverage/farmaceuticas$POOparseVademecum.coverage" NAME="POOparseVademecum Coverage Results" MODIFIED="1558378006606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/farmaceuticas$generadoresRandom.coverage" NAME="generadoresRandom Coverage Results" MODIFIED="1558441002667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/farmaceuticas$laboratoriosRandom.coverage" NAME="laboratoriosRandom Coverage Results" MODIFIED="1558443037941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/farmaceuticas$parseandoVademecum.coverage" NAME="parseandoVademecum Coverage Results" MODIFIED="1558444235937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/farmaceuticas$parseandoVademecum.coverage" NAME="parseandoVademecum Coverage Results" MODIFIED="1558514003186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/farmaceuticas$creandoAlmacenes.coverage" NAME="creandoAlmacenes Coverage Results" MODIFIED="1558517098509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/parseandoWeb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#46#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parseandoVademecum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="73" lean-forward="true" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
-          <folding>
-            <element signature="e#46#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/parseandoWeb.py" />
+    <entry file="file://$PROJECT_DIR$/generandoGenerico.py" />
     <entry file="file://$PROJECT_DIR$/laboratoriosRandom.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -379,20 +343,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/POOparseVademecum.py">
+    <entry file="file://$PROJECT_DIR$/validateSchema.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generadoresRandom.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="371">
+          <caret line="34" column="55" lean-forward="true" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inicioParseandoVademecum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
-            <element signature="e#46#67#0" expanded="true" />
+            <element signature="e#47#68#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generadoresRandom.py">
+    <entry file="file://$PROJECT_DIR$/creandoAlmacenes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="342">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
